@@ -51,7 +51,7 @@
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/isleep-logo.svg",
-    "mbrsiteDomain": "enpfxcfc3k",
+    "mbrsiteDomain": "rdpffeaxc2",
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
@@ -78,7 +78,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/logobrandname-1480x1539.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/%E5%BD%A2%E8%B1%A1%E7%85%A7-1-1373x1201.png"
       },
       "components": [
         {
